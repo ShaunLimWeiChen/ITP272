@@ -1,0 +1,163 @@
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+c:\users\furore\documents\visual studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Documents\Visual Studio 2010\Projects\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorDatabase.mdf
+C:\Users\Furore\Documents\SensorFormLatestNov (2)\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorDatabase_log.ldf
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Documents\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Music\SensorFormLatestNovember\SensorFormLatestNov\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase.mdf
+C:\Users\Furore\Music\SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase_log.ldf
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase.mdf
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase_log.ldf
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Music\Team5_SensorFormLatestDecember\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase.mdf
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase_log.ldf
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Music\Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase.mdf
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase_log.ldf
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase.mdf
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorDatabase_log.ldf
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.csproj.GenerateResource.Cache

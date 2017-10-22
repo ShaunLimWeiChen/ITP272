@@ -1,0 +1,145 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Homeguest.master.cs" Inherits="Homeguest" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ITSE - Touch of Genius</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+  
+</head>
+
+<body id="top">
+<form id="form1" runat="server">
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="Home.aspx">ITSE</a></h1>
+      <p><strong>A Touch of Genius</strong></p>
+    </div>
+    <div id="newsletter">
+      <p>Members area login here.</p>
+      
+        <fieldset>
+          <legend>Sign in</legend>
+          
+          <asp:ContentPlaceHolder id="LoginArea" runat="server">
+          </asp:ContentPlaceHolder>
+        </fieldset>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+  <div class="wrapper col2">
+  <div id="topbar">
+    <div id="topnav">
+      <ul>
+        <li class="active"><a href="Home.aspx">Home</a></li>
+        <li><a href="Smarthome.aspx">Smart Home</a></li>
+        <li><a href="products.aspx">System Packages</a></li>
+        <li class="last"><a href="AboutUs.aspx">About Us</a></li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col3">
+  <div id="intro">
+    <div class="fl_left">
+      <h2>ITSE</h2>
+      <p>IT Solution Enterprise project team was establised in 2016 comprising of Thomas, Shaun, Wafiy, Clynton and Rizwaan(Discontinued). This semester our project focuses 
+      on using micro-controllers to create "Smart Nation" project. We decided to create our own Smart Home Solution using the sensors provided. Enjoy~ </p>
+      
+    </div>
+    <div class="fl_right"><img src="images/ITSE.png" alt="" /></div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col4">
+  <div id="services">
+    <ul>
+      <li>
+        <div class="fl_left"><img src="images/Home/securitycam.jpg" height="180px" width="100px" alt="" /></div>
+        <div class="fl_right">
+          <h2>Aforge Camera System</h2>
+          <p>Home security system</p>
+          <br />
+          <p>High sensitivity motion sensor, equipped with a high powered super camera.</p>
+          <br />
+           <p class="readmore"><a href="Smarthome.aspx">Read on&raquo;</a></p>
+        </div>
+      </li>
+      <li>
+        <div class="fl_left"><img src="images/Home/data.png" height="180px" width="100px" alt="" /></div>
+        <div class="fl_right">
+          <h2>Energy Effiecieny</h2>
+          <p>E.E System Master</p>
+          <br />
+          <p>Use of basic data mining, E.E. System Master will suggest optimal 
+          system configurations to suit your needs.</p>
+          <p class="readmore"><a href="Smarthome.aspx">Read on&raquo;</a></p>
+        </div>
+      </li>
+      <li class="last">
+        <div class="fl_left"><img src="images/Home/guard.png" height="180px" width="100px" alt="" /></div>
+        <div class="fl_right">
+          <h2>Stranger Danger</h2>
+          <p>Advance Facial Recognition</p>
+          <br />
+          <p>Running OpenCV, Double Vision Doorman Sytem will be able to 
+          recognise and inform you who is at your door. </p>
+          <p class="readmore"><a href="Smarthome.aspx">Read on&raquo;</a></p>
+        </div>
+      </li>
+    </ul>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col5">
+  <div id="container">
+    <div id="content">
+      <h2>Still not convinced? </h2>
+      
+      <p>Despite smart home technologies being around for the past few years, not many people have these systems integrated in their homes.
+      In alternate studies we conducted when asked if respondents have a smart home system, omre than 80% indicated that they did not have
+      it. Out of which, 40% did not know what was a "Smart Home".</p>
+      
+      <p>Our project not only addresses multiple concerns held by members of public, we also include features and characteristic we came up 
+      with.The RFID system unlock will be able to save configurations made by the user and save them the trouble of turning on appliances.</p>
+      
+      <div>
+        <asp:ContentPlaceHolder id="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </div>
+    <div id="column">
+      <div class="holder">
+        <h2>ITSE Blog</h2>
+        <ul id="latestnews">
+          <li> <img class="imgl" src="images/pp.jpg" height="75px" width="100px" alt="" />
+            <p><strong><a href="#">Swan on the Lose</a></strong></p>
+            <p>ITSE's company pet has been missing for the past 2 weeks. Authorities advice members of public not to approach the swan.</p>
+          </li>
+          <li class="last"> <img class="imgl" src="images/waf.jpg" height="75px" width="100px" alt="" />
+            <p><strong><a href="#">Touch of Genius</a></strong></p>
+            <p>ITSE system expert lecturer single and ready to mingle. <3 Wafiyz</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+
+    
+    <br class="clear" />
+<div class="wrapper col7">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">ITSE</a></p>
+   
+    <br class="clear" />
+  </div>
+</div>
+</form>
+</body>
+</html>

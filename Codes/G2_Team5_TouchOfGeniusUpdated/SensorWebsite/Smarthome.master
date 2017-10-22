@@ -1,0 +1,168 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Smarthome.master.cs" Inherits="Smarthome" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title>ITSE - Touch of Genius</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+</head>
+<body id="top">
+<form id="form1" runat='server'>
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+     <h1><a href="Home.aspx">ITSE</a></h1>
+      <p><strong>A Touch of Genius</strong></p>
+    </div>
+     <div id="newsletter">
+      <p>Members area login here.</p>
+      
+        <fieldset>
+          <legend>Sign in</legend>
+          
+          <asp:ContentPlaceHolder id="LoginArea" runat="server">
+          </asp:ContentPlaceHolder>
+        </fieldset>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+ <div class="wrapper col2">
+  <div id="topbar">
+    <div id="topnav">
+      <ul>
+        <li><a href="Home.aspx">Home</a></li>
+        <li class="active"><a href="Smarthome.aspx">Smart Home</a></li>
+        <li><a href="products.aspx">System Packages</a></li>
+        <li class="last"><a href="AboutUs.aspx">About Us</a></li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+   
+<div class="wrapper col3">
+  <div id="breadcrumb">
+    <ul>
+      <li class="first">You Are Here</li>
+      <li>&#187;</li>
+      <li><a href="#">Home</a></li>
+      <li>&#187;</li>
+      <li><a href="#">Smart Home</a></li>
+      <li>&#187;</li>
+    </ul>
+  </div>
+</div>
+<div class="wrapper col5">
+  <div id="container">
+  <div id="content">
+  <h1>About our Smart System</h1>
+  <img class="imgr" src="images/smarthome.jpg" alt=""width="125" height="125" />
+  <p>This project serves to provide potential users to have a one-stop installation to 
+  upgrade their homes to a "Smart Home". Our system uses a plethora of sensors that can be 
+  easily installed make it future proof. Sensors will be able to monitor users 
+  monthly energy and using simple data mining algorithms, our system will suggest 
+  the optimal setting based on the user's preference.</p>
+  <p>Despite smart home technologies being around for the past few years, not many people
+  have these systems integrated in their homes. In alternate surveys we conducted, majority
+  of our respondents do not have smart homes. Out of which 25% did not knowh what a "smart home"
+  was. After being informed what smart homes could do for them, many respondents were 
+  interested and wanted to have it in their homes.</p>
+  <img class="imgl" src="images/smarthome2.jpg" alt="" width="125" height="125" />
+  <p>Our survey found that one of the biggest concern for homeowners in Singpoare is fear of a home fire. 
+  Should not come as a surprise in lieu of multiple cases where power-banks, electronic cigearettes and phone
+  bursting into flames is becoming a norm. The second biggest concern among the respondents is high 
+  electricity cost. Not all the problems can be addressed in our solution but we try our best to tackle 
+  as many conncerns as we can.</p>
+  <p>The solution proposed by our team not only addresses multiple concerns and request of the respondents 
+ , we also included features and characteristics that will enhance the overall user experience.</p>
+ <br />
+ <h2>Technologies used in our system</h2>
+ <table summary="Summary Here" cellpadding="0" cellspacing="0">
+ <thread>
+    <tr>
+     <th>Sensor</th>
+     <th>Description</th>
+    </tr>
+ </thread>
+  <tbody>
+          <tr class="light">
+            <td>Ultrasonic</td>
+            <td>- Attached to shower head to help reduce water wastage.<br />
+            - Able to log and calculate electricity output to help reduce monthly bills.</td>
+          </tr>
+          <tr class="dark">
+            <td>Temperature</td>
+            <td>- Record and monitor temperature of the home 24/7. <br />
+            - Based on user's energy efficiency priority input, sugges optimal temperature
+            setting</td>
+          </tr>
+          <tr class="light">
+            <td>Motion (Camera)</td>
+            <td>- Primary home security system, setup on the ceiling around the home. <br />
+            - Activated when user leaves the home.<br />
+            - Able to detect slight movements in te room and will trigger the camera 
+             system. Which can be remotely managed via app by the user.</td>
+          </tr>
+          <tr class="dark">
+            <td>RFID</td>
+            <td>- Allows users to tap in and login to system upon arriving home<br />
+             - Every user in the home can be assigned to 1 RFID card<br />
+             - Each card can save a diffrent home applicance setup configuration</td>
+          </tr>
+          <tr class="light">
+            <td>Smart Door (Facial Recognition Cam)</td>
+            <td>- Camera at the door that will be activated upon pressing the doorbell<br />
+            - Home user will be notified via app that will send an image of whoever is at
+            the door with their names if their faces have been saved in the database.<br />
+            - User will then be able to unlock the door and grant entry for the guest</td>
+          </tr>
+        </tbody>
+      </table>
+      <div id="comments">
+        <h2>Comments</h2>
+        <ul class="commentlist">
+          <li class="comment_odd">
+            <div class="author"><img class="avatar" src="images/waf.jpg" width="32" height="32" alt="" /><span class="name"><a href="">thelegend27</a></span> <span class="wrote">wrote:</span></div>
+            <div class="submitdate"><a href="">Feb 6th, 2018 at 4:35 am</a></div>
+            <p>This is the best home system I could ever ask for. Clearly the developers are very good at what they do. 10 out of 10 would recommend. <3</p>
+          </li>
+          
+        </ul>
+      </div>
+      <div id="respond">
+        <form action="#" method="post">
+        </form>
+      </div>
+    </div>
+    <div id="column">
+      <div class="subnav">
+        
+      </div>
+      <div class="holder">
+       
+      </div>
+      <div id="featured">
+        
+      </div>
+      <div class="holder">
+        
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+    <asp:ContentPlaceHolder ID="productContent1" runat="server">
+    </asp:ContentPlaceHolder>
+<div class="wrapper col7">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">ITSE</a></p>
+   
+    <br class="clear" />
+  </div>
+</div>
+</form>
+</body>
+</html>

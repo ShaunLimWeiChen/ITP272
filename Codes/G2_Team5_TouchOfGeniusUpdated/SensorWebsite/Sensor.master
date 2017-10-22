@@ -1,0 +1,78 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Sensor.master.cs" Inherits="Taeyeon" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ITSE - Touch of Genius</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+  
+</head>
+
+<body id="top">
+
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="Home.aspx">ITSE</a></h1>
+      <p><strong>A Touch of Genius</strong></p>
+    </div>
+    <div id="newsletter">
+      <p>Sign up to our newsletter for the latest news, updates and offers.</p>
+      
+        <fieldset>
+          <legend>Sign in</legend>
+          
+           <form id="form1" runat="server">
+           <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+          <asp:ContentPlaceHolder id="LoginArea" runat="server">
+          </asp:ContentPlaceHolder>
+          
+        </fieldset>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col2">
+  <div id="topbar">
+    <div id="topnav">
+     <ul>
+        <li><a href="Home.aspx">Home</a></li>
+        <li><a href="Smarthome.aspx">Smart Home</a></li>
+        <li><a href="products.aspx">Upgrade your system</a></li>
+        <li class="active"><a href="Energypage.aspx">My System</a></li>
+        <li class="last"><a href="AboutUs.aspx">About Us</a></li>
+      </ul>
+    </div>
+    
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col3">
+  <div id="breadcrumb">
+    <ul>
+      <li class="first">You Are Here</li>
+      <li>&#187;</li>
+      <li><a href="#">Home</a></li>
+      <li>&#187;</li>
+      <li><a href="#">My System</a></li>
+      <li>&#187;</li>
+    </ul>
+  </div>
+</div>
+<div class="wrapper col5">
+  <div id="container">
+   <asp:ContentPlaceHolder id="MainContent" runat="server">
+        
+    </asp:ContentPlaceHolder>
+   </div>
+   </div>
+<div class="wrapper col7">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">ITSE</a></p>
+    <!--p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p-->
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</form>
+</html>

@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="LogReg.master.cs" Inherits="LogReg" %>
+
+<!DOCTYPE html>
+<html>
+<head id="Head1" runat="server">
+<title>Touch of Genius</title>
+<link rel="Stylesheet" type="text/css" href="Styles/loginBase.css" />
+</head>
+<body>
+<form id="form1" runat="server">
+        <asp:ContentPlaceHolder id="Header" runat="server">
+        </asp:ContentPlaceHolder>
+         
+         <asp:ContentPlaceHolder id="Maincontent" runat="server">
+        </asp:ContentPlaceHolder>
+        </form>
+		
+</body>
+</html>
+

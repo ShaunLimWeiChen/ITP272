@@ -1,0 +1,156 @@
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated (2)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated (1)\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.DoorView.resources
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\1600301\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe.config
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.resx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.cs
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AdminForm.Designer.cs
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\app.config
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.exe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\SensorFormLatestNov.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\bin\Debug\AForge.Video.dll
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.AdminForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.GasForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.DoorView.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.FacialReconDoorbell.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.LoginForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.MotionForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.Properties.Resources.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.TemperatureForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.UltrasonicForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\SensorFormLatestNov.SensorForm.resources
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorFormLatestDec\SensorFormLatestNov\obj\x86\Debug\Team5_SensorForm.csproj.GenerateResource.Cache

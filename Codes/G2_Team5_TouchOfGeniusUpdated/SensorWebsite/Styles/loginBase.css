@@ -1,0 +1,49 @@
+F*{
+	font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+h1{
+	font-family:Copperplate, Arial, Helvetica, sans-serif;
+}
+
+td{
+	height: 32px;
+}
+
+td.right{
+	text-align: right;
+}
+td.center{
+	text-align: center;
+}
+
+.center{
+	margin: 0 auto;
+}
+table 
+{
+    border-collapse: collapse;
+    border:1px solid #FFFFFF;
+    padding-top: 20px;
+   /* background-image:url("../images/ITSE-mini.png");*/
+}
+
+/* 
+General colours and setup 
+
+body 
+{
+    margin:0;
+    padding:0;
+    font-family: Tahoma, Verdana, Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-size: 11px;
+}
+#loginData 
+{
+    padding:8px;
+    margin:0px;
+}
+*/
+

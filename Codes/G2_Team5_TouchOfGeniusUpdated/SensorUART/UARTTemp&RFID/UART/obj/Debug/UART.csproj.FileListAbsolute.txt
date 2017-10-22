@@ -1,0 +1,462 @@
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\UART.exe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\UART.exe
+C:\Users\Furore\Downloads\UART\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Downloads\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\UART.exe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Documents\UART\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Documents\UART\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Documents\UART\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Documents\UART\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Documents\UART\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Documents\UART\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Documents\UART\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Documents\UART\UART\obj\Debug\UART.exe
+C:\Users\Furore\Documents\UART\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Music\Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Music\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Downloads\G2_Team5_TouchOfGenius\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGenius\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Desktop\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusUpdated - Copy\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Pictures\G2_Team5_TouchOfGeniusFinal\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.exe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.exe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.exe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\UART.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\le\UART.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\be\UART.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\LE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.AnalogInput.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\BE\SecretLabs.NETMF.Hardware.PWM.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.dll
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.dll
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.AnalogInput.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\bin\Debug\SecretLabs.NETMF.Hardware.PWM.pdb
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\be\UART.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\le\UART.pdbx
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.exe
+C:\Users\Furore\Desktop\ITP272 EI1502 (Team 5)\Codes\G2_Team5_TouchOfGeniusUpdated\SensorUART\UARTTemp&RFID\UART\obj\Debug\UART.pdb
